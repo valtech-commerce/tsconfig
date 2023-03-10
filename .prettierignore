@@ -1,0 +1,9 @@
+*.*
+!*.js
+!*.cjs
+!*.mjs
+!*.yaml
+!*.yml
+!*.md
+
+CHANGELOG.md

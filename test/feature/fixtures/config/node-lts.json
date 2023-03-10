@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "exactOptionalPropertyTypes": false,
+    "forceConsistentCasingInFileNames": true,
+    "lib": [
+      "es2022"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noPropertyAccessFromIndexSignature": false,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2022"
+  },
+  "files": [
+    "./index.ts"
+  ]
+}

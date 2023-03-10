@@ -1,0 +1,8 @@
+extends:
+  - "plugin:jest/recommended"
+  - "plugin:jest/style"
+
+rules:
+  jest/expect-expect: [off]
+  jest/no-export: [off]
+  node/no-unsupported-features/es-syntax: [off]
